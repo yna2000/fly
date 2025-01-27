@@ -3,7 +3,6 @@
 
 The main motive behind creating this website is to showcase the skills that we learned in Unit 3 of Masai School's program. We used the following technology stacks: HTML, CSS, JavaScript, and the animation library, AOS (https://github.com/michalsnik/aos). We created a JSON server for all the data we needed and worked on that data according to our requirements. The link of JSON server is (https://frail-show.onrender.com/data)
 
-<img width="100%" alt="Screenshot 2022-06-10 at 3 12 26 PM" src="./Imgs/readme/screencapture-127-0-0-1-5501-index-html-2023-05-08-21_05_38.png">
 
 The website has two sides: the admin and the user. To visit the admin side, users must use "Utkarsh@Trasverse.com" as the username and "Traverse" as the password.
 
